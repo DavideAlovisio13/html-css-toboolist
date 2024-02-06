@@ -1,0 +1,26 @@
+/* general */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F6F8F9;
+}
+
+/* header */
+#logo {
+    max-width: 2500px;
+    background-color: #FFFFFF;
+}
+#logo img {
+   padding: 10px 5px 10px 20px;
+   vertical-align: middle;
+}
+#logo h1 {
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 45px;
+}
+
