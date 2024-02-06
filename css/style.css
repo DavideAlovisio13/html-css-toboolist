@@ -26,8 +26,7 @@ body {
 
 /* container */
 .container {
-    height: 100px;
-    padding: 15px 0px;
+    padding: 13px;
     border-radius: 10px;
     background-color: #FFFFFF;
     width: 70%;
@@ -52,4 +51,51 @@ body {
     border: 1px solid #C5CBD0;
     border-radius: 5px;
 }
+
+
+/* main  */
+.list {
+    padding: 20px 50px;
+}
+main>h2 {
+    font-size: 1.1em;
+    font-weight:800;
+}
+ul {
+    list-style-type: none;
+    padding-top: 10px;
+}
+.greencheck {
+    color: #64C0A8;
+    text-align: center;
+    line-height: 20px;
+    display: inline-block;
+    border: 1px solid #64C0A8 ;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+li p {
+    font-size: 1.1em;
+    display: inline-block;
+    padding: 20px;
+}
+.elementtype {
+    margin-left: 15px;
+    padding: 10px 20px;
+    border-radius: 15px;
+   
+}
+.redcheck {
+    color: #E9453A;
+    text-align: center;
+    line-height: 20px;
+    display: inline-block;
+    border: 1px solid #E9453A ;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+
 
