@@ -52,19 +52,7 @@ body {
     border-radius: 5px;
 }
 
-
-/* main  */
-.list {
-    padding: 20px 50px;
-}
-main>h2 {
-    font-size: 1.1em;
-    font-weight:800;
-}
-ul {
-    list-style-type: none;
-    padding-top: 10px;
-}
+/* entity style */
 .greencheck {
     color: #64C0A8;
     text-align: center;
@@ -74,17 +62,6 @@ ul {
     border-radius: 50%;
     width: 20px;
     height: 20px;
-}
-li p {
-    font-size: 1.1em;
-    display: inline-block;
-    padding: 20px;
-}
-.elementtype {
-    margin-left: 15px;
-    padding: 10px 20px;
-    border-radius: 15px;
-   
 }
 .redcheck {
     color: #E9453A;
@@ -97,5 +74,56 @@ li p {
     height: 20px;
 }
 
+/* list style */
+.list {
+    padding: 20px 50px;
+}
+main>h2 {
+    font-size: 1.1em;
+    font-weight:800;
+}
+ul {
+    list-style-type: none;
+    padding-top: 10px;
+}
+li p {
+    font-size: 1.1em;
+    display: inline-block;
+    padding: 20px;
+}
 
+/* elements style */
 
+.elementtype {
+    margin-left: 15px;
+    padding: 10px 20px;
+    border-radius: 15px;   
+}
+.whitetext {
+    color: #FFFFFF;
+}
+
+.bgblue {
+    background-color: #45ABE9;
+    border: 1px solid #45ABE9;
+}
+
+.bggreen {
+    background-color: #64C0A8;
+}
+
+.bgorange {
+    background-color: #F29E33;
+}
+
+.bgpurple {
+    background-color: #9C72E4;
+}
+
+.bgpink {
+    background-color: #D863A0;
+}
+
+.bglightgreen {
+    background-color: #B0C926;
+}
