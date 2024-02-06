@@ -26,11 +26,11 @@ body {
 
 /* container */
 .container {
-    padding: 13px;
+    padding: 15px;
     border-radius: 10px;
     background-color: #FFFFFF;
     width: 70%;
-    margin: 30px auto 10px ;
+    margin: 80px auto 10px ;
 }
 .navbottons {
     padding-left: 60px;
@@ -89,13 +89,13 @@ ul {
 li p {
     font-size: 1.1em;
     display: inline-block;
-    padding: 20px;
+    padding: 15px;
+    font-weight: 500;
 }
 
 /* elements style */
 
 .elementtype {
-    margin-left: 15px;
     padding: 10px 20px;
     border-radius: 15px;   
 }
