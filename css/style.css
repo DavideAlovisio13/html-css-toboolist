@@ -24,3 +24,32 @@ body {
     font-size: 45px;
 }
 
+/* container */
+.container {
+    height: 100px;
+    padding: 15px 0px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    width: 70%;
+    margin: 30px auto 10px ;
+}
+.navbottons {
+    padding-left: 60px;
+    width: 100%;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #F6F8F9 ;
+}
+#addtask {
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+#addselection {
+    background-color: #FFFFFF;
+    color: #C5CBD0;
+    text-align: center;
+    padding: 10px 15px;
+    border: 1px solid #C5CBD0;
+    border-radius: 5px;
+}
+
